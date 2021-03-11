@@ -1,4 +1,4 @@
-# Curso_Ds_Producao
+# Python do Zero ao DS
 This repository contains the scripsts of house rocket datasets that was following reports of 'sejaumdatascientist' blog.
 
 
